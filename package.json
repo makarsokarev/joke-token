@@ -1,0 +1,23 @@
+{
+  "name": "joke-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makarsokarev/joke-token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makarsokarev/joke-token/issues"
+  },
+  "homepage": "https://github.com/makarsokarev/joke-token#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
